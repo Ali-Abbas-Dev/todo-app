@@ -1,0 +1,14 @@
+// values for custom colors
+// $primary: #2196f3;
+// $secondary: #fff;
+// $success: #6afe6f;
+// $info: #9c27b0;
+// $warning: #ff6200;
+// @import "_bootswatch.scss";
+
+@import "./variables";
+
+// importing bootsrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import "./bootswatch";
